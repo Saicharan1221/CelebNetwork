@@ -1,9 +1,4 @@
-
-# CelebNetwork.com 🌟
-
-A modern celebrity discovery and fan engagement platform built with React, TypeScript, and Tailwind CSS. Connect fans with their favorite celebrities through AI-powered discovery and interactive profiles.
-
-## 🚀 Live Demo
+Project  : https://celeb-verse-nexus.lovable.app/
 
 Visit the live application: [Your Deployment URL]
 
